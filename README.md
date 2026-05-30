@@ -124,9 +124,10 @@ class SridharanRaja:
 
 ## 🏆 Trophy Wall
 
-<div align="center">
+![Trophies](https://github-profile-trophy.vercel.app/?username=sridharanraja&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sridharanraja&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" />
-</div>
+</div> -->
 
 ---
 
@@ -231,8 +232,8 @@ class SridharanRaja:
 
 | Degree | Institution | Year | Score |
 |:-------|:-----------|:----:|:-----:|
-| M.Sc. Data Science | Periyar University | 2023 | — |
-| B.C.A. | Loyola College of Arts & Science | 2021 | — |
+| M.Sc. Data Science | Periyar University | 2023 | 7.7 |
+| B.C.A. | Loyola College of Arts & Science | 2021 | 7.3 |
 
 </div>
 
